@@ -7,6 +7,6 @@
 * &nbsp;Python
 * &nbsp;MERN Stack
 * &nbsp;Ruby on Rails
-* &nbsp;HTML & CSS/SCSS
 * &nbsp;Java & JavaScript
+* &nbsp;HTML & CSS/SCSS
 * &nbsp;Robots/Electronics
